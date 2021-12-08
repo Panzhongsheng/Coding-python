@@ -18,8 +18,7 @@
 |---demo7.py:讲解python类
 |---demo8.py:讲解python文件与异常
 |---demo9.py:讲解python测试代码
-|---extend.md:讲解python函数
-|---demo6:讲解如何寻求帮助、Git版本控制
+|---extend.md:讲解如何寻求帮助、Git版本控制
 ```
 
 
